@@ -1,6 +1,6 @@
 # iotuts
 
-A new Flutter project.
+Projek untuk memenuhi Tugas UTS Pemrograman Mobile | 152021084 Mikail Hassan Ifrayim
 
 ## Getting Started
 
